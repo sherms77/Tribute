@@ -1,0 +1,12 @@
+Scope - user stories
+Create local repo
+Create GitHub repo
+Commit repo to GitHub
+Add project plan to GitHub
+Find topic
+Structure page layout
+Collate page content - imgs, text & links
+Add content - meet user story requirements
+Submit project
+
+tribute token: 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
