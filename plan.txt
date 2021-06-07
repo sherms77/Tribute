@@ -8,5 +8,3 @@ Structure page layout
 Collate page content - imgs, text & links
 Add content - meet user story requirements
 Submit project
-
-tribute token: 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
