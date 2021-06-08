@@ -1,0 +1,5 @@
+Heading - The history of hip hop
+Header picture
+About - explanation text that covers: origin, influences, key people and its elements - get info from wiki page.
+Timeline - milestones
+Footer - link to wiki page

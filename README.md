@@ -4,6 +4,9 @@
 - Project name: Build a tribute page.
 
 # About
-Build a tribute page. Meet the requirements for each user story in the project specs.
+- Build a tribute page. 
+- Meet the requirements for each user story in the project specs.
+- Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page.
 
-Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page.
+# Links
+- codepen: https://codepen.io/sherman-bernard/pen/gOmKZqx

@@ -1,0 +1,18 @@
+LINKS 
+1.https://codepen.io/sherman-bernard/pen/gOmKZqx - page in codepen editor
+2.https://www.youtube.com/watch?v=PlxWf493en4 - how to create a basic website tutorial
+3.https://www.w3schools.com/tags/tag_ol.asp - how <ol> works
+4.https://www.w3schools.com/tags/tag_ul.asp - how <ul> works
+5.https://www.w3schools.com/tags/tag_dl.asp - how <dl> works
+6.https://placeholder.com/ - useful site for placeholder images - lets you adjust sizes
+
+NOTES 
+080621: Watched video in link 2. UP TO STEP 9.
+080621: Best practice for images is to save it to pc and reference the file name in src attribute.
+080621: Watching video in link 2.
+080621: Finished step 8. WATCH THE REST OF THE VIDEO IN LINK 2.
+080621: Finished step 7. UP TO STEP 8.
+080621: Started watching how to create a web site video in link 2. Watched first 6 mins. Watch the rest after I finish steps 7 and 8 in plan.
+080621: Finished steps 1-6 in plan.
+080621: Topic is in project details folder - the history of hip hop culture.
+080621: UP TO STEP 7 IN PLAN. Refer to layout.txt file in page folder.

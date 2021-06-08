@@ -6,5 +6,5 @@ Add project plan to GitHub
 Find topic
 Structure page layout
 Collate page content - imgs, text & links
-Add content - meet user story requirements
+Add content - meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
 Submit project
