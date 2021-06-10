@@ -1,0 +1,62 @@
+THE HISTORY OF HIP HOP
+This is a brief history of Hip hop culture.
+It oulines its origins and shows a timeline of major milestones in its history.
+
+ABOUT
+
+--Origin--
+Hip hop is a cultrue and art movement that was created by African Amercians, Latino Americans and Caribbean Americans.
+It originated in the Bronx, New York City.
+
+It emerged in the 1970s from neighborhood block parties thrown by the Black Spades. 
+The Black Spades are an African American group that has been described as being a gang, a club and a music group.
+
+--Elements--
+Hip hop is often thought of as a just a genre of music but it consists of a few different elements. 
+There are four key elements which are:
+- 1.Rapping or MCing,
+- 2.Djing,
+- 3.Breakdancing, and
+- 4.Graffiti.
+
+Other elements include:
+- knowledge about hip hop culture,
+- beatboxing,
+- entrepreneurship
+- hip hop language, and
+- hip hop fashion and style.
+
+--Influences--
+Hip hop culture was largely driven by its music. 
+However its musical and cultural influences is what helped shape its other elements like breakdancing, graffiti, fashion and language.
+
+In terms of the music, it drew from a wide variety of influences from African, Latino and Caribbean cultures. 
+It also drew on American music such as soul, jazz, RnB, rock and blues.
+
+Language, fashion and dance styles were influenced by African, Latino and Caribbean cultures.
+
+--Key people--
+Some key people and groups that influenced Hip hop culture are:
+- The Black Spades
+- DJ Kool Herc
+- Grand Master Flash
+- Afrika Bambaata
+- Granmaster Kaz
+- Grand Wizzard Theodore
+- Melle Mell
+- Lovebug Starski
+- Sugar Hill Gang
+- Kurtis Blow
+
+TIMELINE
+- 1970s: Underground movement known as Hip hop began to form in the Bronx, New York City.
+- 1980s: Kurtis Blow released his self-titled debut album which featured the single "The Breaks." 
+         It became the first certified gold rap song. It helped spearhead Hip hop music's migration into the mainstream.
+- 1990s: Saw the emergence and success of 'gangsta rap.'
+- 2000s to present: Hip hop culture is now a dominant global force in the areas of music, movies, television, fashion, language and a number of other businesses and fields.
+
+FOOTER
+<footer>If you want more information about the history of Hip hop, you can go to the Wikipedia page <a href="https://en.wikipedia.org/wiki/Hip_hop" target=_blank>here.</a></footer> <!--make 'here' link to wiki page-->		
+
+
+

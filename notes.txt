@@ -8,6 +8,10 @@ LINKS
 7.https://www.youtube.com/watch?v=1tQHMs7VefQ - id attributes
 
 NOTES 
+100621: UP TO USER STORY #2 - STEP 9 IN PLAN.
+100621: Finished user story #1. Formatted text - created lists where required.
+100621: Finish user story #1, then Format text on site - create lists where required.
+100621: Drafted and added content to site.
 090621: Watching video about id attributes in link 7. For user story #1.
 080621: Watched video in link 2. UP TO STEP 9.
 080621: Best practice for images is to save it to pc and reference the file name in src attribute.
