@@ -5,8 +5,10 @@ LINKS
 4.https://www.w3schools.com/tags/tag_ul.asp - how <ul> works
 5.https://www.w3schools.com/tags/tag_dl.asp - how <dl> works
 6.https://placeholder.com/ - useful site for placeholder images - lets you adjust sizes
+7.https://www.youtube.com/watch?v=1tQHMs7VefQ - id attributes
 
 NOTES 
+090621: Watching video about id attributes in link 7. For user story #1.
 080621: Watched video in link 2. UP TO STEP 9.
 080621: Best practice for images is to save it to pc and reference the file name in src attribute.
 080621: Watching video in link 2.
