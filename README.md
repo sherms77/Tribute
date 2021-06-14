@@ -9,4 +9,4 @@
 - Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page.
 
 # Links
-- codepen: https://codepen.io/sherman-bernard/pen/gOmKZqx
+- codepen: https://codepen.io/sherman-bernard/full/gOmKZqx 
