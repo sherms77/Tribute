@@ -1,4 +1,3 @@
-
 /*
 html{}
 body{}
@@ -11,11 +10,17 @@ img{}
     margin: 50px;
     padding: 15px;
     border-radius: 5px;
-    background: #eee;
+    background: white;
+    font-family: arial; 
+}
+
+#img-div{
+  background: white;
+  height: auto;
+  max-width: 100%;
 }
 
 /*
-#img-div{}
 #img-caption{}
 #headline{}
 */

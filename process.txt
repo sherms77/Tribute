@@ -1,4 +1,5 @@
-code in vs code
-view in browser
+code in codepen editor
 test in codepen editor
+add code to files in local repo
+commit to GitHub repo
 submit code in codepen to freedcodecamp
