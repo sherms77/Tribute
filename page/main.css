@@ -1,26 +1,20 @@
-/*
-html{}
-body{}
-h1{}
-h2{}
-img{}
-*/
-
 #main{
-    margin: 50px;
-    padding: 15px;
-    border-radius: 5px;
-    background: white;
-    font-family: arial; 
+  margin: 50px;
+  padding: 15px;
+  border-radius: 5px;
+  background: white;
+  font-family: arial;
+}
+
+img{
+/*user story #8-#9*/
+max-width: 100%;
+display: block;
+height: auto; 
 }
 
 #img-div{
-  background: white;
-  height: auto;
-  max-width: 100%;
+background: white;
+padding: 10px;
+margin: 0px;
 }
-
-/*
-#img-caption{}
-#headline{}
-*/

@@ -8,8 +8,11 @@ LINKS
 7.https://www.youtube.com/watch?v=1tQHMs7VefQ - id attributes
 
 NOTES 
+150621: Finished project. Submitted to freecodecamp.org - Passed.
+150621: Finished user stories #5-#9.
+150621: Finished user story #4. UP TO USER STORY #5.
 150621: Updated process.
-140621: UP TO USER STORY 4.
+140621: UP TO USER STORY #4.
 140621: Finsished user story #3. Saved code in local repo.
 120621: Changed process. Will code in codepen editor only and add final code to files in local repo when finished. Easier and quicker to code in codepen only.
 120621: Finished user story #2. UP TO USER STORY #3.
