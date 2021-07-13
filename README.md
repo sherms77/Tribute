@@ -12,7 +12,8 @@
 Link to project: https://codepen.io/sherman-bernard/full/gOmKZqx 
 
 # Notes
-HTML and CSS files in folder named 'page.'
+- HTML and CSS files in 'page' folder.
+- Boilerplate code not used. codepen auto adds it.
 
 # Timeline
 - Started: 8 June 2021
